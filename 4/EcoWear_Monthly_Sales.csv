@@ -1,0 +1,253 @@
+Month,Product,CustomerSegment,Sales
+January,Winter Jacket,Local Residents,18
+January,Winter Jacket,Mobile Professionals,15
+January,Winter Jacket,International Visitors,6
+January,Winter Jacket,Students,8
+January,Winter Jacket,Senior Citizens,7
+January,Winter Jacket,Tourists,9
+January,Winter Jacket,Corporate Clients,10
+January,Rain Boots,Local Residents,5
+January,Rain Boots,Mobile Professionals,6
+January,Rain Boots,International Visitors,3
+January,Rain Boots,Students,2
+January,Rain Boots,Senior Citizens,1
+January,Rain Boots,Tourists,4
+January,Rain Boots,Corporate Clients,2
+January,Sunglasses,Local Residents,2
+January,Sunglasses,Mobile Professionals,3
+January,Sunglasses,International Visitors,2
+January,Sunglasses,Students,2
+January,Sunglasses,Senior Citizens,1
+January,Sunglasses,Tourists,2
+January,Sunglasses,Corporate Clients,4
+February,Winter Jacket,Local Residents,20
+February,Winter Jacket,Mobile Professionals,16
+February,Winter Jacket,International Visitors,7
+February,Winter Jacket,Students,9
+February,Winter Jacket,Senior Citizens,8
+February,Winter Jacket,Tourists,10
+February,Winter Jacket,Corporate Clients,11
+February,Rain Boots,Local Residents,6
+February,Rain Boots,Mobile Professionals,6
+February,Rain Boots,International Visitors,3
+February,Rain Boots,Students,3
+February,Rain Boots,Senior Citizens,2
+February,Rain Boots,Tourists,5
+February,Rain Boots,Corporate Clients,2
+February,Sunglasses,Local Residents,3
+February,Sunglasses,Mobile Professionals,4
+February,Sunglasses,International Visitors,3
+February,Sunglasses,Students,2
+February,Sunglasses,Senior Citizens,2
+February,Sunglasses,Tourists,2
+February,Sunglasses,Corporate Clients,5
+March,Winter Jacket,Local Residents,15
+March,Winter Jacket,Mobile Professionals,13
+March,Winter Jacket,International Visitors,5
+March,Winter Jacket,Students,6
+March,Winter Jacket,Senior Citizens,5
+March,Winter Jacket,Tourists,7
+March,Winter Jacket,Corporate Clients,8
+March,Rain Boots,Local Residents,7
+March,Rain Boots,Mobile Professionals,7
+March,Rain Boots,International Visitors,3
+March,Rain Boots,Students,3
+March,Rain Boots,Senior Citizens,2
+March,Rain Boots,Tourists,5
+March,Rain Boots,Corporate Clients,3
+March,Sunglasses,Local Residents,5
+March,Sunglasses,Mobile Professionals,7
+March,Sunglasses,International Visitors,5
+March,Sunglasses,Students,4
+March,Sunglasses,Senior Citizens,3
+March,Sunglasses,Tourists,4
+March,Sunglasses,Corporate Clients,7
+April,Winter Jacket,Local Residents,10
+April,Winter Jacket,Mobile Professionals,9
+April,Winter Jacket,International Visitors,4
+April,Winter Jacket,Students,5
+April,Winter Jacket,Senior Citizens,3
+April,Winter Jacket,Tourists,6
+April,Winter Jacket,Corporate Clients,6
+April,Rain Boots,Local Residents,12
+April,Rain Boots,Mobile Professionals,11
+April,Rain Boots,International Visitors,5
+April,Rain Boots,Students,5
+April,Rain Boots,Senior Citizens,4
+April,Rain Boots,Tourists,8
+April,Rain Boots,Corporate Clients,4
+April,Sunglasses,Local Residents,4
+April,Sunglasses,Mobile Professionals,5
+April,Sunglasses,International Visitors,3
+April,Sunglasses,Students,3
+April,Sunglasses,Senior Citizens,2
+April,Sunglasses,Tourists,3
+April,Sunglasses,Corporate Clients,6
+May,Winter Jacket,Local Residents,8
+May,Winter Jacket,Mobile Professionals,7
+May,Winter Jacket,International Visitors,3
+May,Winter Jacket,Students,4
+May,Winter Jacket,Senior Citizens,3
+May,Winter Jacket,Tourists,5
+May,Winter Jacket,Corporate Clients,5
+May,Rain Boots,Local Residents,15
+May,Rain Boots,Mobile Professionals,13
+May,Rain Boots,International Visitors,6
+May,Rain Boots,Students,6
+May,Rain Boots,Senior Citizens,5
+May,Rain Boots,Tourists,10
+May,Rain Boots,Corporate Clients,6
+May,Sunglasses,Local Residents,5
+May,Sunglasses,Mobile Professionals,6
+May,Sunglasses,International Visitors,4
+May,Sunglasses,Students,4
+May,Sunglasses,Senior Citizens,3
+May,Sunglasses,Tourists,4
+May,Sunglasses,Corporate Clients,7
+June,Winter Jacket,Local Residents,5
+June,Winter Jacket,Mobile Professionals,4
+June,Winter Jacket,International Visitors,2
+June,Winter Jacket,Students,3
+June,Winter Jacket,Senior Citizens,2
+June,Winter Jacket,Tourists,3
+June,Winter Jacket,Corporate Clients,3
+June,Rain Boots,Local Residents,18
+June,Rain Boots,Mobile Professionals,16
+June,Rain Boots,International Visitors,8
+June,Rain Boots,Students,7
+June,Rain Boots,Senior Citizens,6
+June,Rain Boots,Tourists,12
+June,Rain Boots,Corporate Clients,6
+June,Sunglasses,Local Residents,6
+June,Sunglasses,Mobile Professionals,8
+June,Sunglasses,International Visitors,5
+June,Sunglasses,Students,4
+June,Sunglasses,Senior Citizens,3
+June,Sunglasses,Tourists,4
+June,Sunglasses,Corporate Clients,8
+July,Winter Jacket,Local Residents,4
+July,Winter Jacket,Mobile Professionals,3
+July,Winter Jacket,International Visitors,2
+July,Winter Jacket,Students,2
+July,Winter Jacket,Senior Citizens,1
+July,Winter Jacket,Tourists,2
+July,Winter Jacket,Corporate Clients,2
+July,Rain Boots,Local Residents,14
+July,Rain Boots,Mobile Professionals,12
+July,Rain Boots,International Visitors,6
+July,Rain Boots,Students,5
+July,Rain Boots,Senior Citizens,4
+July,Rain Boots,Tourists,10
+July,Rain Boots,Corporate Clients,5
+July,Sunglasses,Local Residents,8
+July,Sunglasses,Mobile Professionals,10
+July,Sunglasses,International Visitors,6
+July,Sunglasses,Students,5
+July,Sunglasses,Senior Citizens,4
+July,Sunglasses,Tourists,5
+July,Sunglasses,Corporate Clients,10
+August,Winter Jacket,Local Residents,5
+August,Winter Jacket,Mobile Professionals,4
+August,Winter Jacket,International Visitors,2
+August,Winter Jacket,Students,3
+August,Winter Jacket,Senior Citizens,2
+August,Winter Jacket,Tourists,3
+August,Winter Jacket,Corporate Clients,3
+August,Rain Boots,Local Residents,12
+August,Rain Boots,Mobile Professionals,11
+August,Rain Boots,International Visitors,5
+August,Rain Boots,Students,5
+August,Rain Boots,Senior Citizens,4
+August,Rain Boots,Tourists,9
+August,Rain Boots,Corporate Clients,5
+August,Sunglasses,Local Residents,9
+August,Sunglasses,Mobile Professionals,11
+August,Sunglasses,International Visitors,7
+August,Sunglasses,Students,6
+August,Sunglasses,Senior Citizens,5
+August,Sunglasses,Tourists,6
+August,Sunglasses,Corporate Clients,11
+September,Winter Jacket,Local Residents,6
+September,Winter Jacket,Mobile Professionals,5
+September,Winter Jacket,International Visitors,3
+September,Winter Jacket,Students,3
+September,Winter Jacket,Senior Citizens,2
+September,Winter Jacket,Tourists,3
+September,Winter Jacket,Corporate Clients,4
+September,Rain Boots,Local Residents,10
+September,Rain Boots,Mobile Professionals,9
+September,Rain Boots,International Visitors,4
+September,Rain Boots,Students,4
+September,Rain Boots,Senior Citizens,3
+September,Rain Boots,Tourists,7
+September,Rain Boots,Corporate Clients,4
+September,Sunglasses,Local Residents,10
+September,Sunglasses,Mobile Professionals,12
+September,Sunglasses,International Visitors,8
+September,Sunglasses,Students,7
+September,Sunglasses,Senior Citizens,6
+September,Sunglasses,Tourists,7
+September,Sunglasses,Corporate Clients,12
+October,Winter Jacket,Local Residents,12
+October,Winter Jacket,Mobile Professionals,10
+October,Winter Jacket,International Visitors,5
+October,Winter Jacket,Students,5
+October,Winter Jacket,Senior Citizens,3
+October,Winter Jacket,Tourists,6
+October,Winter Jacket,Corporate Clients,7
+October,Rain Boots,Local Residents,8
+October,Rain Boots,Mobile Professionals,7
+October,Rain Boots,International Visitors,3
+October,Rain Boots,Students,3
+October,Rain Boots,Senior Citizens,2
+October,Rain Boots,Tourists,5
+October,Rain Boots,Corporate Clients,3
+October,Sunglasses,Local Residents,7
+October,Sunglasses,Mobile Professionals,9
+October,Sunglasses,International Visitors,5
+October,Sunglasses,Students,4
+October,Sunglasses,Senior Citizens,3
+October,Sunglasses,Tourists,4
+October,Sunglasses,Corporate Clients,9
+November,Winter Jacket,Local Residents,16
+November,Winter Jacket,Mobile Professionals,14
+November,Winter Jacket,International Visitors,7
+November,Winter Jacket,Students,8
+November,Winter Jacket,Senior Citizens,5
+November,Winter Jacket,Tourists,9
+November,Winter Jacket,Corporate Clients,10
+November,Rain Boots,Local Residents,7
+November,Rain Boots,Mobile Professionals,6
+November,Rain Boots,International Visitors,3
+November,Rain Boots,Students,2
+November,Rain Boots,Senior Citizens,2
+November,Rain Boots,Tourists,5
+November,Rain Boots,Corporate Clients,2
+November,Sunglasses,Local Residents,4
+November,Sunglasses,Mobile Professionals,6
+November,Sunglasses,International Visitors,4
+November,Sunglasses,Students,3
+November,Sunglasses,Senior Citizens,2
+November,Sunglasses,Tourists,3
+November,Sunglasses,Corporate Clients,7
+December,Winter Jacket,Local Residents,20
+December,Winter Jacket,Mobile Professionals,17
+December,Winter Jacket,International Visitors,8
+December,Winter Jacket,Students,9
+December,Winter Jacket,Senior Citizens,6
+December,Winter Jacket,Tourists,11
+December,Winter Jacket,Corporate Clients,12
+December,Rain Boots,Local Residents,6
+December,Rain Boots,Mobile Professionals,6
+December,Rain Boots,International Visitors,3
+December,Rain Boots,Students,3
+December,Rain Boots,Senior Citizens,2
+December,Rain Boots,Tourists,5
+December,Rain Boots,Corporate Clients,3
+December,Sunglasses,Local Residents,3
+December,Sunglasses,Mobile Professionals,5
+December,Sunglasses,International Visitors,3
+December,Sunglasses,Students,2
+December,Sunglasses,Senior Citizens,2
+December,Sunglasses,Tourists,3
+December,Sunglasses,Corporate Clients,6

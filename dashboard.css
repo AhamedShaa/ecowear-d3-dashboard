@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+}
+
+.dashboard-container {
+    max-width: 1400px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.dashboard-header {
+    text-align: center;
+    color: #1a202c;
+}
+
+.dashboard-title {
+    font-size: 34px;
+    font-weight: 700;
+    letter-spacing: -0.6px;
+    margin-bottom: 8px;
+}
+
+.dashboard-subtitle {
+    font-size: 16px;
+    color: #4a5568;
+}
+
+.dashboard-main {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.dashboard-row {
+    display: flex;
+    gap: 32px;
+}
+
+.dashboard-row-top {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 32px;
+}
+
+.chart-card {
+    background: #ffffff;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1), 0 1px 8px rgba(0, 0, 0, 0.06);
+    padding: 32px 32px 36px;
+    display: flex;
+    flex-direction: column;
+}
+
+.chart-title {
+    font-size: 21px;
+    font-weight: 600;
+    color: #1a202c;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.chart-inner {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: visible;
+}
+
+#radar-chart,
+#coxcomb-chart,
+#sankey-chart,
+#bar-chart {
+    width: 100%;
+    height: 100%;
+}
+
+#coxcomb-card {
+    min-height: 700px;
+}
+
+#radar-card {
+    min-height: 700px;
+}
+
+#sankey-card {
+    height: auto;
+}
+
+#sankey-chart {
+    display: block;
+    line-height: 0;
+}
+
+#sankey-chart svg {
+    display: block;
+}
+
+#bar-card {
+    min-height: 450px;
+}
+
+.tooltip {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.88);
+    color: #ffffff;
+    padding: 12px 16px;
+    border-radius: 8px;
+    font-size: 13px;
+    line-height: 1.6;
+    pointer-events: none;
+    z-index: 1000;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    max-width: 260px;
+}
+
+.tooltip.hidden {
+    display: none;
+}
+
+.tooltip strong {
+    color: #4fd1c5;
+    font-weight: 600;
+}
+
+.tooltip .value {
+    color: #fbbf24;
+    font-weight: 600;
+}
+
+.bar-segment {
+    transition: opacity 0.2s ease;
+    cursor: pointer;
+}
+
+.bar-segment:hover {
+    opacity: 0.8;
+}
+
+.x-axis path,
+.x-axis line,
+.y-axis path,
+.y-axis line {
+    stroke: #cbd5e0;
+}
+
+.y-axis text {
+    fill: #4a5568;
+}
+
+.legend-item {
+    cursor: default;
+}
+
+.legend-item text {
+    user-select: none;
+}
+
+@media (max-width: 1024px) {
+    body {
+        padding: 30px 16px;
+    }
+
+    .dashboard-row {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 768px) {
+    .dashboard-title {
+        font-size: 28px;
+    }
+
+    .chart-title {
+        font-size: 19px;
+    }
+
+    .chart-card {
+        padding: 24px 20px 28px;
+    }
+}
+

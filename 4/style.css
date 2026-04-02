@@ -1,0 +1,7 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 16px; }
+h2 { margin-bottom: 8px; }
+#chart { width: 900px; margin: 0 auto; }
+#legend { margin-top: 8px; }
+.tooltip { background: rgba(0,0,0,0.8); color: #fff; padding: 8px 10px; border-radius: 4px; font-size: 12px; pointer-events: none; }
+.hidden { display: none; }
+svg text { font-family: inherit; }

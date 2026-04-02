@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoWear Analytics Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+</head>
+
+<body>
+    <div class="dashboard-container">
+        <header class="dashboard-header">
+            <h1 class="dashboard-title">EcoWear Analytics Dashboard</h1>
+            <p class="dashboard-subtitle">Comprehensive Analysis of Sales, Weather Impact, Customer Flow &amp; Segments</p>
+        </header>
+
+        <main class="dashboard-main">
+            <!-- Top row: Radar (left), Coxcomb (right) -->
+            <section class="dashboard-row dashboard-row-top">
+                <div class="chart-card" id="radar-card">
+                    <h2 class="chart-title">Weather Product Impact Radar Chart</h2>
+                    <div class="chart-inner">
+                        <div id="radar-chart"></div>
+                    </div>
+                </div>
+
+                <div class="chart-card" id="coxcomb-card">
+                    <h2 class="chart-title">Product Sales by Customer Segment</h2>
+                    <div class="chart-inner">
+                        <div id="coxcomb-chart"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Second row: full-width Sankey -->
+            <section class="dashboard-row">
+                <div class="chart-card" id="sankey-card">
+                    <h2 class="chart-title">Customer Flow Analysis</h2>
+                    <div class="chart-inner">
+                        <div id="sankey-chart"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Third row: full-width Stacked Bar -->
+            <section class="dashboard-row">
+                <div class="chart-card" id="bar-card">
+                    <h2 class="chart-title">Monthly Sales by Product</h2>
+                    <div class="chart-inner">
+                        <div id="bar-chart"></div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <div id="tooltip" class="tooltip hidden"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+    <script src="2/d3-sankey.min.js"></script>
+    <script src="dashboard.js"></script>
+</body>
+
+</html>
+

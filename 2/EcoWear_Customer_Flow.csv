@@ -1,0 +1,19 @@
+source,target,value
+Organic Search,Product View,10
+Paid Ads,Product View,8
+Social Media,Product View,6
+Product View,Add to Cart,18
+Product View,Drop at Product View,6
+Add to Cart,Begin Checkout,9
+Add to Cart,Drop at Cart,9
+Begin Checkout,Payment Initiated,9
+Payment Initiated,Payment Completed,7
+Payment Initiated,Drop at Payment,2
+Payment Completed,Order Confirmed,7
+Payment Completed,Payment Failed,0
+Order Confirmed,Retained Customer,5
+Order Confirmed,Churned Customer,1
+Order Confirmed,Returned Item,1
+Drop at Product View,No Conversion,6
+Drop at Cart,No Conversion,9
+Drop at Payment,No Conversion,2
