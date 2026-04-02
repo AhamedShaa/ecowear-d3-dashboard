@@ -27,6 +27,8 @@ Interactive D3.js dashboard exploring:
 
 ## Preview
 ![1,2](https://raw.githubusercontent.com/AhamedShaa/ecowear-d3-dashboard/main/1,2.png)
+![3](https://raw.githubusercontent.com/AhamedShaa/ecowear-d3-dashboard/main/3.png)
+![4](https://raw.githubusercontent.com/AhamedShaa/ecowear-d3-dashboard/main/4.png)
 
 ## How to run
 1. Open `dashboard.html`
